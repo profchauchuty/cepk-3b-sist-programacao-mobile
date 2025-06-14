@@ -1,7 +1,7 @@
 # 📘 Disciplina: Programação Mobile
 
 **Turma:** 3ª Série - Manhã - B  
-**Professor:** Cesar Mauricio Chauchuty
+**Professor:** Cesar Mauricio Chauchuty  
 **Curso:** Técnico em Desenvolvimento de Sistemas  
 **Instituição:** Colégio Estadual Kennedy
 
@@ -11,12 +11,20 @@
 
 A avaliação será composta por duas provas individuais e um trabalho em grupo, conforme a tabela a seguir:
 
-| Instrumento de Avaliação     | Descrição                         | Valor (pontos) | Data prevista         |
-|-----------------------------|-----------------------------------|----------------|------------------------|
-| Avaliação 1 (individual)    | Conteúdos iniciais                | 3,0            | [Definir]              |
-| Avaliação 2 (individual)    | Conteúdos intermediários/finais   | 3,0            | [Definir]              |
-| Trabalho em grupo           | Desenvolvimento de aplicativo     | 4,0            | [Definir]              |
-| **Total**                   |                                   | **10,0**       |                        |
+| Instrumento de Avaliação     | Descrição                         | Valor (pontos) | Data prevista |
+|------------------------------|-----------------------------------|----------------|----------------|
+| Avaliação 1 (individual)     | Conteúdos iniciais                | 3,0            | A definir      |
+| Avaliação 2 (individual)     | Conteúdos intermediários/finais   | 3,0            | A definir      |
+| Trabalho em grupo            | Desenvolvimento de aplicativo     | 4,0            | A definir      |
+| **Total**                    |                                   | **10,0**       |                |
+
+---
+
+## 🧪 Aulas no Expo Snack
+
+| Aula | Nome da Aula                              | Link do Snack                                  |
+|------|-------------------------------------------|------------------------------------------------|
+| 01   | Estrutura do Componente                   | [(https://snack.expo.dev/@profchauchuty/estrutura-do-componente)](https://snack.expo.dev/@profchauchuty/estrutura-do-componente) |
 
 ---
 
@@ -25,6 +33,9 @@ A avaliação será composta por duas provas individuais e um trabalho em grupo,
 - A nota final será composta pela soma dos três instrumentos.
 - A entrega fora do prazo ou plágio resultará em penalidades conforme regimento escolar.
 - A recuperação será oferecida para quem obtiver nota inferior a 6,0 no total.
+- Cada link do Snack acima contém o código-fonte comentado e um resumo explicativo sobre o conteúdo da aula.
+- A leitura e compreensão desses resumos é essencial para as provas e o trabalho em grupo.
+- Em caso de dúvida, traga perguntas para a próxima aula.
 
 ---
 
