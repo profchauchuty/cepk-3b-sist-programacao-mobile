@@ -20,6 +20,25 @@ A avaliação será composta por duas provas individuais e um trabalho em grupo,
 
 ---
 
+## 👥 Grupos de Trabalho
+
+| Grupo | Integrantes                            | Entregue?         |
+|-------|----------------------------------------|-------------------|
+| 1     | Amanda, Rafaelle, Bryan                | ❌                |
+| 2     | Kenny, Luiza, Venus                    | ❌                |
+| 3     | Ana, Maria, Gustavo                    | ❌                |
+| 4     | Guilherme, Filipe, Rafael              | ❌                |
+| 5     | Kauan, Nicolas, Maneys, Whenghel       | ❌                |
+| 6     | Gerson, Poliayan, Felipe               | ❌                |
+| 7     | Paulo, Igor                            | ❌                |
+| 8     | Welinton, Matheus, Kamyli              | ❌                |
+| 9     | Kauane, Felipe, Gabriel                | ❌                |
+| 10    | Luis, Willian                          | ❌                |
+| 11    | Layze, Samuel                          | ❌                |
+
+
+---
+
 ## 🧪 Aulas no Expo Snack
 
 | Aula | Nome da Aula                              | Link do Snack                                  |
