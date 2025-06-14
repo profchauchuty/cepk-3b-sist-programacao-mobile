@@ -28,6 +28,14 @@ A avaliação será composta por duas provas individuais e um trabalho em grupo,
 
 ---
 
+## 🛠️ Ferramentas
+
+Para acompanhar as aulas e desenvolver os projetos, utilizaremos as seguintes ferramentas:
+
+- **Expo Snack:** Ambiente online para criar e testar apps React Native diretamente no navegador.
+
+---
+
 ## 📌 Observações
 
 - A nota final será composta pela soma dos três instrumentos.
