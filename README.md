@@ -32,7 +32,7 @@ A avaliação será composta por duas provas individuais e um trabalho em grupo,
 | 6     | Gerson, Poliayan, Felipe               | ❌                |
 | 7     | Paulo, Igor                            | ❌                |
 | 8     | Welinton, Matheus, Kamyli              | ❌                |
-| 9     | Kauane, Felipe, Gabriel                | ❌                |
+| 9     | Alisson Kauane, Felipe, Gabriel        | ❌                |
 | 10    | Luis, Willian                          | ❌                |
 | 11    | Layze, Samuel                          | ❌                |
 
