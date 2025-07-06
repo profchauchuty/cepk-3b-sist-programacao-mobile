@@ -22,20 +22,21 @@ A avaliação será composta por duas provas individuais e um trabalho em grupo,
 
 ## 👥 Grupos de Trabalho
 
-| Grupo | Integrantes                            | Entregue?         |
+| Grupo | Integrantes                            | Esboço (0.5 pts) |
 |-------|----------------------------------------|-------------------|
-| 1     | Amanda, Rafaelle, Bryan                | ❌                |
-| 2     | Kenny, Luiza, Venus                    | ❌                |
-| 3     | Ana, Maria, Gustavo                    | ❌                |
-| 4     | Guilherme, Filipe, Rafael              | ❌                |
-| 5     | Kauan, Nicolas, Maneys, Whenghel       | ❌                |
-| 6     | Gerson, Poliayan, Felipe               | ❌                |
-| 7     | Paulo, Igor                            | ❌                |
-| 8     | Welinton, Matheus, Kamyli              | ❌                |
-| 9     | Alisson Kauane, Felipe, Gabriel        | ❌                |
-| 10    | Luis, Willian                          | ❌                |
-| 11    | Layze, Samuel                          | ❌                |
-
+| 1     | Ana, Gustavo, Maria                    | ✅               |
+| 2     | Alisson Kauane, Felipe, Gabriel        | ✅               |
+| 3     | Amanda, Bryan, Rafaelle                | ✅               |
+| 4     | Filipe, Guilherme, Rafael              | ✅               |
+| 5     | Felipe, Gabriel, Kauane                | ✅               |
+| 6     | Gerson, Rhayan                         | ✅               |
+| 7     | Kenny, Luiza, Venus                    | ✅               |
+| 8     | Layze, Samuel                          | ✅               |
+| 9     | Luis, Willianm, Paulo                  | ✅               |
+| 10    | Igor                                   | ⬜               |
+| 11    | Kamily, Matheus, Welinton              | ✅               |
+| 12    | Kauan, Nicolas, Whenghel               | ✅               |
+| 13    | Fernando, Kauã, Vinicius               | ✅               |
 
 ---
 
