@@ -11,19 +11,20 @@
 
 A avaliação será composta por duas provas individuais e um trabalho em grupo, conforme a tabela a seguir:
 
-| Instrumento de Avaliação     | Descrição                         | Valor (pontos) | Data prevista |
-|------------------------------|-----------------------------------|----------------|----------------|
-| Avaliação 1 (individual)     | Conteúdos iniciais                | 3,0            | A definir      |
-| Avaliação 2 (individual)     | Conteúdos intermediários/finais   | 3,0            | A definir      |
-| Trabalho em grupo            | Desenvolvimento de aplicativo     | 4,0            | A definir      |
-| **Total**                    |                                   | **10,0**       |                |
+| Avaliação / Atividade     | Descrição               | Pontos | Data prevista | Realizada? |
+|---------------------------|-------------------------|--------|----------------|-------------|
+| Avaliação 1               | Conceitos Iniciais      | 3,0    | 04/07/2025     | ✅          |
+| Avaliação 2               | Conceitos Intermediários| 3,0    | 15/08/2025     | ⬜          |
+| Atividade 1 (grupo)       | Parte I                 | 2,0    | 08/08/2025     | ✅          |
+| Atividade 2 (grupo)       | Parte II                | 2,0    | 15/08/2025     | ⬜          |
+| **Total**                 |                         | **10,0** |              |             |
 
 ---
 
 ## 👥 Grupos de Trabalho
 
-| Grupo | Integrantes                          | Ideia (0.5) | Layout (0.5) | Funcionalidades (1.0) | Estilização (1.0) | Apresentação (1.0) |
-|-------|--------------------------------------|-------------|--------------|------------------------|-------------------|---------------------|
+| Grupo | Integrantes                          | Ideia (0.5)   | Layout (0.5) | Funcionalidades (1.0) | Estilização (1.0) | Apresentação (1.0) |
+|-------|--------------------------------------|---------------|--------------|------------------------|-------------------|---------------------|
 | 1     | Ana, Gustavo, Maria                  | ✅           |              |                        |                   |                     |
 | 2     | Alisson Kauane, Felipe, Gabriel      | ✅           |              |                        |                   |                     |
 | 3     | Amanda, Bryan, Rafaelle              | ✅           |              |                        |                   |                     |
@@ -47,6 +48,7 @@ A avaliação será composta por duas provas individuais e um trabalho em grupo,
 | Aula | Nome da Aula                              | Link                               |
 |------|-------------------------------------------|------------------------------------------------|
 | 01   | Estrutura do Componente                   | [(https://snack.expo.dev/@profchauchuty/estrutura-do-componente)](https://snack.expo.dev/@profchauchuty/estrutura-do-componente) |
+| 02   | Layout                                    | [(https://snack.expo.dev/@profchauchuty/layout)](https://snack.expo.dev/@profchauchuty/layout) |
 
 ---
 
