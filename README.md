@@ -14,10 +14,20 @@ A avaliação será composta por duas provas individuais e um trabalho em grupo,
 | Avaliação / Atividade     | Descrição               | Pontos | Data prevista | Realizada? |
 |---------------------------|-------------------------|--------|----------------|-------------|
 | Avaliação 1               | Conceitos Iniciais      | 3,0    | 04/07/2025     | ✅          |
-| Avaliação 2               | Conceitos Intermediários| 3,0    | 15/08/2025     | ⬜          |
-| Atividade 1 (grupo)       | Parte I                 | 2,0    | 08/08/2025     | ⬜          |
-| Atividade 2 (grupo)       | Parte II                | 2,0    | 15/08/2025     | ⬜          |
+| Avaliação 2               | Conceitos Intermediários| 3,0    | 08/08/2025     | ⬜          |
+| Atividade 1 (grupo)       | Parte I                 | 2,0    | 15/08/2025     | ⬜          |
+| Atividade 2 (grupo)       | Parte II                | 2,0    | 18/08/2025     | ⬜          |
 | **Total**                 |                         | **10,0** |              |             |
+
+---
+
+### Recuperações
+
+| Recuperação               | Descrição                       | Pontos   | Data prevista | Realizada? |
+|---------------------------|---------------------------------|----------|----------------|-------------|
+| Avaliações                | C. Iniciais + C. Intermediários | 6,0      | 15/08/2025     | ⬜         |
+| Atividades                | A. Descritiva + A. Diagnóstica  | 4,0      | 18/08/2025     | ⬜         |
+| **Total**                 |                                 | **10,0** |                |             |
 
 ---
 
