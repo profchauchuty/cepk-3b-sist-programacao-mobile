@@ -56,8 +56,9 @@ A avaliação será composta por duas provas individuais e um trabalho em grupo,
 
 | Aula | Nome da Aula                              | Link                               |
 |------|-------------------------------------------|------------------------------------------------|
-| 01   | Estrutura do Componente                   | [(https://snack.expo.dev/@profchauchuty/estrutura-do-componente)](https://snack.expo.dev/@profchauchuty/estrutura-do-componente) |
-| 02   | Layout                                    | [(https://snack.expo.dev/@profchauchuty/layout)](https://snack.expo.dev/@profchauchuty/layout) |
+| 01   | Estrutura do Componente                   | [https://snack.expo.dev/@profchauchuty/estrutura-do-componente](https://snack.expo.dev/@profchauchuty/estrutura-do-componente) |
+| 02   | Layout                                    | [https://snack.expo.dev/@profchauchuty/layout](https://snack.expo.dev/@profchauchuty/layout) |
+| 03   | Estilização                               | [https://github.com/profchauchuty/cepk-3b-sist-programacao-mobile/blob/main/files/estilizacao.md](https://github.com/profchauchuty/cepk-3b-sist-programacao-mobile/blob/main/files/estilizacao.md)
 
 ---
 
