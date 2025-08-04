@@ -32,8 +32,8 @@ A avaliação será composta por duas provas individuais e um trabalho em grupo,
 
 ## 👥 Grupos de Trabalho
 
-| Grupo | Integrantes                          | Ideia (0.5)   | Layout (1.0) | Estilização (1.0)     | Funcionalidades (2.0) |
-|-------|--------------------------------------|---------------|--------------|-----------------------|-------------------|
+| Grupo | Integrantes                          | Ideia (0.5)   | Layout (1.0) | Estilização (2.0)     | Apresentação (1.0) |
+|-------|--------------------------------------|---------------|--------------|-----------------------|--------------------|
 | 1     | Ana, Gustavo, Maria                  | ✅           |              |                        |                   |
 | 2     | Alisson Kauane, Felipe, Gabriel      | ✅           |              |                        |                   |
 | 3     | Amanda, Bryan, Rafaelle              | ✅           |              |                        |                   |
