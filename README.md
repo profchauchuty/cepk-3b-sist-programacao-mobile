@@ -24,31 +24,9 @@ A avaliação será composta por duas provas individuais e um trabalho em grupo,
 
 | Recuperação               | Descrição                       | Pontos   | Data prevista | Realizada? |
 |---------------------------|---------------------------------|----------|----------------|-------------|
-| Avaliações                | C. Iniciais + C. Intermediários | 6,0      | 18/08/2025     | ⬜         |
-| Atividades                | A. Descritiva + A. Diagnóstica  | 4,0      | 18/08/2025     | ⬜         |
+| Avaliações                | C. Iniciais + C. Intermediários | 6,0      | 18/08/2025     | ✅         |
+| Atividades                | A. Descritiva + A. Diagnóstica  | 4,0      | 18/08/2025     | ✅         |
 | **Total**                 |                                 | **10,0** |                |             |
-
----
-
-## 👥 Grupos de Trabalho
-
-| Grupo | Integrantes                          | Ideia (0.5)   | Layout (1.0) | Estilização (2.0)     | Apresentação (1.0) |
-|-------|--------------------------------------|---------------|--------------|-----------------------|--------------------|
-| 1     | Ana, Gustavo, Maria                  | ✅           |      ✅        |            ✅            |   ✅                |
-| 2     | Alisson Kauane, Felipe, Gabriel      | ✅           |      ✅        |            ✅            |    ✅               |
-| 3     | Amanda, Bryan, Rafaelle              | ✅           |      ✅        |            ✅            |      ✅             |
-| 4     | Filipe, Guilherme, Rafael            | ✅           |      ✅        |           ✅             |      ✅             |
-| 5     | Felipe, Gabriel, Kauane              | ✅           |       ✅       |             ✅           |       ✅            |
-| 6     | Gerson, Rhayan                       | ✅           |       ✅       |               ✅         |        ✅           |
-| 7     | Kenny, Luiza, Venus                  | ✅           |      ✅        |                 ✅       |         ✅          |
-| 8     | Layze, Samuel                        | ✅           |      ✅        |                   ✅     |          ✅         |
-| 9     | Luis, Willianm, Paulo                | ✅           |       ✅       |        ✅                |           ✅        |
-| 10    | Igor                                 | ⬜           |      ⬜        |             ⬜           |               ⬜    |
-| 11    | Kamily, Matheus, Welinton            | ✅           |    ⬜          |             ⬜           |      ⬜             |
-| 12    | Kauan, Nicolas, Whenghel             | ✅           |         ✅     |               ✅         |       ✅            |
-| 13    | Fernando, Kauã, Vinicius             | ✅           |        ⬜      |                 ⬜       |        ⬜           |
-
-
 
 ---
 
