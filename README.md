@@ -34,7 +34,7 @@ A avaliação será composta por duas provas individuais e um trabalho em grupo,
 
 | Aula | Nome da Aula                              | Link                               |
 |------|-------------------------------------------|------------------------------------------------|
-
+| 01   | Introdução à Refatoração                  | [Acessar](https://www.devmedia.com.br/introducao-a-refatoracao/21377)
 ---
 
 ## 📌 Observações
