@@ -14,8 +14,8 @@ A avaliação será composta por duas provas individuais e um trabalho em grupo,
 
 | Avaliação / Atividade     | Descrição               | Pontos   | Data prevista | Realizada? |
 |---------------------------|-------------------------|----------|----------------|-------------|
-| Avaliação 1               | <DEFINIR>               | 3,0      | <DEFINIR>      | ⬜          |
-| Atividade (grupo)         | <DEFINIR>               | 4,0      | <DEFINIR>      | ⬜          |
+| Avaliação                 | Refatoração             | 6,0      | 20/10/2025     | ⬜          |
+| Atividade (grupo)         | Desenvolvimento Jogo    | 4,0      | 24/10/2025     | ⬜          |
 | **Total**                 |                         | **10,0** |                |             |
 
 ---
@@ -24,8 +24,8 @@ A avaliação será composta por duas provas individuais e um trabalho em grupo,
 
 | Recuperação               | Descrição                       | Pontos   | Data prevista | Realizada? |
 |---------------------------|---------------------------------|----------|----------------|-------------|
-| Avaliações                | <DEFINIR>                       | 6,0      | <DEFINIR>      | ⬜         |
-| Atividades                | <DEFINIR>                       | 4,0      | <DEFINIR>      | ⬜         |
+| Avaliações                | Refatoração                     | 6,0      | 31/10/2025	    | ⬜         |
+| Atividades                | Desenvolvimento Jogo            | 4,0      | 31/10/2025	    | ⬜         |
 | **Total**                 |                                 | **10,0** |                |             |
 
 ---
